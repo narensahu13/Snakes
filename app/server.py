@@ -9,8 +9,8 @@ from fastai import *
 from fastai.vision import *
 
 # export_file_url = 'https://www.dropbox.com/s/v6cuuvddq73d1e0/export.pkl?raw=1'
-export_file_url = 'https://drive.google.com/open?id=1r6l9lfrkQno3fmMlT2d_WMQ629bcbQWI'
-export_file_name = 'stage-2.pth'
+export_file_url = 'https://drive.google.com/open?id=1NjVhxjPZMuNbqBzY_hml2rQRYZeWlLfiI'
+export_file_name = 'export.pkl'
 
 classes = ['Anaconda',"Baird's Rat Snake",'Ball Python','Beaked Sea Snake',"Belcher's Sea Snake",'Black Mamba','Black Rat Snake',
           'Burmese Python','Bushmaster','California Kingsnake','Cape Cobra','Carpet Python','Copperheads','Corn Snake',
